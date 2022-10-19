@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anass</h1>
-<h3 align="center">A Junior Frontend from Morocco</h3>
+<h1 >Hi 👋, I'm Anass</h1>
+<h3 >A Junior Frontend from Morocco</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.ansdev.ga](https://www.ansdev.ga)
 
